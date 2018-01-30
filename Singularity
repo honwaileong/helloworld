@@ -11,4 +11,4 @@ Author: Hon Wai, Leong
     echo "Installing Development tools"
     yum -y groupinstall "Development Tools"
     echo "Installing other utilities"
-    yum -y wget tcl
+    yum -y install wget tcl
